@@ -17,7 +17,7 @@
     "autoprefixer": "10.4.21",
     "eslint": "8.57.1",
     "eslint-config-next": "13.5.11",
-    "flowbite": "^1.7.0",
+    "flowbite": "^3.0.0",
     "flowbite-react": "^0.10.0",
     "next": "13.5.11",
     "next-auth": "^4.22.1",
